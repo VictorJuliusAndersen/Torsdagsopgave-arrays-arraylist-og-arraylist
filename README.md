@@ -1,2 +1,2 @@
-# Torsdagsopgave-arrays-arraylist-og-arraylist
-Torsdagsopgave arrays, arraylist og arraylist
+# Torsdagsopgave-arrays-arraylist-og-strings
+Torsdagsopgave arrays, arraylist og strings
